@@ -37,7 +37,7 @@ These image features are combined with tabular features and used to train a regr
 Grad-CAM is applied to explain which regions of the satellite images influence the model.
 
 Repository Structure
-├── cdc.ipynb              # Complete end-to-end project notebook
+├── Varnika_cdc.ipynb              # Complete end-to-end project notebook
 ├── images/
 │   └── train_500/      # Satellite images used for multimodal modeling
 ├── prediction.csv         # Final predictions on test data
