@@ -43,7 +43,7 @@ Repository Structure
 ├── prediction.csv         # Final predictions on test data
 └── README.md              # Project documentation
 
-Notebook Description (cdc.ipynb)
+Notebook Description (Varnika_cdc.ipynb)
 
 The notebook contains the complete pipeline, clearly divided into sections:
 
