@@ -1,6 +1,6 @@
 # satellite-property-valuation
 Multimodal regression for property price prediction using tabular data and satellite imagery
-roject Overview
+Project Overview
 
 This project predicts house prices using a multimodal machine learning approach.
 It combines:
