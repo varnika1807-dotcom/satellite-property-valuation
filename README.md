@@ -128,9 +128,10 @@ Format:
 id,predicted_price
 
 Results Summary
+Results Summary
 Model	RMSE	R² Score
-Tabular Baseline	~126,000	~0.87
-Multimodal (Tabular + Images)	~196,000	~0.69
+Tabular Baseline	~113,767	~0.897
+Multimodal (Tabular + Images)	~187,897	~0.721
 
 The tabular model performs better in terms of numerical accuracy.
 The multimodal model adds visual context and improves interpretability by using satellite images.
